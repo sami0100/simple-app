@@ -16,8 +16,9 @@ To install and run the project locally:
    git clone https://github.com/samiabbasi00/simple-app.git
    cd simple-app
 2. Install dependencies:
+   ```bash
+   npm install
 
-npm install
 3. Run the tests:
-
-npm test
+   ```bash
+     npm test
